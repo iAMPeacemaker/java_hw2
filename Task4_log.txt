@@ -1,0 +1,20 @@
+июн. 12, 2023 12:19:22 AM HomeWorks.hw2.Task4 main
+INFO: Application started.
+
+июн. 12, 2023 12:19:23 AM HomeWorks.hw2.Task4 main
+INFO: Was entered a first number - 9,000000
+
+июн. 12, 2023 12:19:24 AM HomeWorks.hw2.Task4 main
+INFO: Was entered a second number - 3,000000
+
+июн. 12, 2023 12:19:25 AM HomeWorks.hw2.Task4 main
+INFO: Was entered a division operation - /
+
+июн. 12, 2023 12:19:25 AM HomeWorks.hw2.Task4 main
+INFO: Result of operation - 3,000000
+
+июн. 12, 2023 12:19:25 AM HomeWorks.hw2.Task4 main
+INFO: End result - 9 / 3 = 3,000000
+
+июн. 12, 2023 12:19:25 AM HomeWorks.hw2.Task4 main
+INFO: Application ended.
